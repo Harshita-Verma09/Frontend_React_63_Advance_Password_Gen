@@ -34,7 +34,7 @@ export default function Password() {
     return (
         <div className="flex justify-center items-center h-screen bg-gray-900 text-white">
             <div className="bg-gray-800 p-6 rounded-xl shadow-lg w-96">
-                <h1 className="text-2xl font-semibold text-center mb-4">🔐 Password Generator</h1>
+                <h1 className="text-2xl font-semibold text-center mb-4"> Password Generator</h1>
                 <div className="flex items-center gap-2 mb-4">
                     <input
                         type="text"
